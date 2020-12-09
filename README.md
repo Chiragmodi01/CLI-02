@@ -1,6 +1,6 @@
 # Let's play a quiz on Pirates of the Caribbean.
 Hey guys! I made this fun CLI Quiz App about Pirates of the Caribbean.
-I'm sure you will enjoy playing it.
+I'm sure you will enjoy playing it :)
 
 # Keep in mind:
 There are total 10 questions.
